@@ -9,7 +9,7 @@ A simple web-based application for registering student details using HTML, CSS, 
   - Name
   - Student ID
   - Email
-  - Class
+  - Contact Number
 - View all registered students in a tabular format
 - Allows you to edit and delete existing student records
 
