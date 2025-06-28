@@ -34,9 +34,15 @@ form input, form button {
 
 
 form button {
-  background-color: #4CAF50;
+  background-color: #4F4D4D;
+  border-radius: 8px;
   color: white;
   cursor: pointer;
+  transition: all 1s;
+}
+
+form button:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
 }
 
 
@@ -53,7 +59,8 @@ table {
 
 
 thead {
-  background: #4CAF50;
+  background: #7e7d82;
+  background: radial-gradient(circle, rgba(126, 125, 130, 1) 0%, rgba(79, 77, 77, 1) 50%, rgba(38, 38, 37, 1) 100%);
   color: white;
 }
 
@@ -64,6 +71,7 @@ td, th {
   text-align: center;
 }
 
+/* Styling for edit and delete buttons */
 
 .actions button {
   background: none;
