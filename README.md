@@ -15,3 +15,6 @@ A simple web-based application for registering student details using HTML, CSS, 
 
 ## Preview
 ![Student Registration System](img/stureg.PNG)
+
+
+Project link: https://github.com/hardikjha/student-registration-system
